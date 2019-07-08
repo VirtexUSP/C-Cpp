@@ -13,5 +13,85 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Chapter1">
+      <UniqueIdentifier>{80bcf0e1-5ec8-4324-ac7b-f3dfcbd463fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter1\Section6">
+      <UniqueIdentifier>{abe7d3a8-65ac-4871-a88a-377305a3ab8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter1\Section1">
+      <UniqueIdentifier>{83ff8f84-c4f3-4301-840e-3093c3cd510b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter1\Section2">
+      <UniqueIdentifier>{c2efa475-0b96-4ec9-8f4e-0186a7e68f0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter1\Section3">
+      <UniqueIdentifier>{8569789d-2e23-481f-9db1-f9809555efd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter1\Section4">
+      <UniqueIdentifier>{eb493df9-1a43-420a-a4d6-f3c3a7d44321}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter1\Section5">
+      <UniqueIdentifier>{298923e3-a17d-4ff6-80a7-2d0a0c4e7d8c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Ex2-1.c">
+      <Filter>소스 파일\Chapter1\Section2</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex2-2.c">
+      <Filter>소스 파일\Chapter1\Section2</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex1-1.c">
+      <Filter>소스 파일\Chapter1\Section1</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex1-2.c">
+      <Filter>소스 파일\Chapter1\Section1</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex2-3.c">
+      <Filter>소스 파일\Chapter1\Section2</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex3-1.c">
+      <Filter>소스 파일\Chapter1\Section3</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex4-1.c">
+      <Filter>소스 파일\Chapter1\Section4</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex4-2.c">
+      <Filter>소스 파일\Chapter1\Section4</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex4-3.c">
+      <Filter>소스 파일\Chapter1\Section4</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex5-1.c">
+      <Filter>소스 파일\Chapter1\Section5</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex6-1.c">
+      <Filter>소스 파일\Chapter1\Section6</Filter>
+    </ClCompile>
+    <ClCompile Include="Test1-1.c">
+      <Filter>소스 파일\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="Test1-2.c">
+      <Filter>소스 파일\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="Test1-3.c">
+      <Filter>소스 파일\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="Test1-4.c">
+      <Filter>소스 파일\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="Test1-5.c">
+      <Filter>소스 파일\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="Test1-6.c">
+      <Filter>소스 파일\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex6-2.c">
+      <Filter>소스 파일\Chapter1\Section6</Filter>
+    </ClCompile>
+    <ClCompile Include="Test1-7.c">
+      <Filter>소스 파일\Chapter1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
